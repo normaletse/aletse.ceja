@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Portafolio - Aletse Ceja</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background:#f4f6f8;
+            margin:0;
+            padding:0;
+        }
+        header{
+            background:#1f2937;
+            color:white;
+            padding:40px;
+            text-align:center;
+        }
+        section{
+            padding:40px;
+            max-width:900px;
+            margin:auto;
+        }
+        h2{color:#1f2937;}
+        .card{
+            background:white;
+            padding:20px;
+            margin:20px 0;
+            border-radius:10px;
+            box-shadow:0 0 10px rgba(0,0,0,0.05);
+        }
+        a{
+            color:#2563eb;
+            text-decoration:none;
+            font-weight:bold;
+        }
+        footer{
+            text-align:center;
+            padding:20px;
+            background:#e5e7eb;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Aletse Ceja</h1>
+    <p>Docente de matemáticas en transición a Analista de Datos</p>
+    <p>Python | SQL | Educación | Análisis de datos</p>
+    <a href="https://https://www.linkedin.com/in/aletse-ceja-6a167b161/" target="_blank">LinkedIn</a> |
+    <a href="https://github.com" target="_blank">GitHub</a>
+</header>
+
+<section>
+    <div class="card">
+        <h2>Sobre mí</h2>
+        <p>
+            Soy docente de matemáticas a nivel secundaria con experiencia en enseñanza estructurada y desarrollo
+            del pensamiento lógico. Actualmente me encuentro en transición de carrera hacia el área de análisis
+            de datos, formándome en herramientas como Python y SQL mediante un bootcamp especializado.
+            Me interesa aplicar la analítica de datos en contextos educativos y empresariales.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Proyectos</h2>
+        <ul>
+            <li><b>Proyecto 1:</b> Análisis de datos de ventas</li>
+            <li><b>Proyecto 2:</b> Sistema de registro escolar</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Contacto</h2>
+        <p>Email: cevenalencv@gmail.com</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 - Portafolio profesional</p>
+</footer>
+
+</body>
+</html>
