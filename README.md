@@ -1,27 +1,27 @@
 # Hola, soy Norma Aletse Ceja Ventura
-### [Data Analyst]
+### Data Analyst
 
 ---
 
-## 🚀 Sobre mí
-[Me estoy formando en análisis de datos y desarrollo, con especial interés en comprender cómo los datos cuentan historias. Me gusta trabajar con proyectos que me reten a pensar de manera lógica y estructurada, buscando siempre claridad, eficiencia y mejora continua.]
+##  Sobre mí
+Me estoy formando en análisis de datos y desarrollo, con especial interés en comprender cómo los datos cuentan historias. Me gusta trabajar con proyectos que me reten a pensar de manera lógica y estructurada, buscando siempre claridad, eficiencia y mejora continua.
 
-- 🔭 Actualmente trabajando en: **[Proyecto X]**
-- 🌱 Especializándome en: **[Data Analyst]**
-- ⚡ Dato curioso: **[Me gustan los retos que me obligan a pensar diferente.]**
+-  Actualmente trabajando en: **Proyecto X.**
+-  Especializándome en: **Data Analyst**
+-  Dato curioso: **Me gustan los retos que me obligan a pensar diferente.**
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-## 📸 Perfil Profesional
+##  Perfil Profesional
 <p align="center">
-  <img src="URL_DE_TU_FOTO" width="200" style="border-radius: 50%;">
+  <img src=<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d6669b11-3e8f-4467-91c8-730d869fbe12" />
+ width="200" style="border-radius: 50%;">
 </p>
 
 ---
