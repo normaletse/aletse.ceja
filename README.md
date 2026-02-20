@@ -26,5 +26,11 @@ Me estoy formando en análisis de datos y desarrollo, con especial interés en c
 ---
 
 ## 📧 Contacto y Redes
-[![LinkedIn](https://media.licdn.com/dms/image/v2/D4E35AQEFfIK_gWIzAw/profile-framedphoto-shrink_400_400/B4EZwjx3t1KUAc-/0/1770126802340?e=1771531200&v=beta&t=iRbbpqMjhzJR5q-HDOVb2IRSBKcDLpAtFOahlWtGn9s)](TU_LINK_DE_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aletse-ceja-6a167b161/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:cevenalencv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
