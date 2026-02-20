@@ -20,8 +20,7 @@ Me estoy formando en análisis de datos y desarrollo, con especial interés en c
 
 ##  Perfil Profesional
 <p align="center">
-  <img src=[<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d6669b11-3e8f-4467-91c8-730d869fbe12"](https://github.com/normaletse/aletse.ceja/blob/main/yopi.jpeg?raw=true) />
- width="200" style="border-radius: 50%;">
+  <img src="https://github.com/normaletse/aletse.ceja/blob/main/yopi.jpeg?raw=true" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
 </p>
 
 ---
